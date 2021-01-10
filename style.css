@@ -1,0 +1,67 @@
+.center {
+    text-align:center
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: dimgrey;
+}
+
+#soOTexto{
+    background-color: #bae8fc;
+    border: 2px #6dccf5 solid;
+    color: #246acc;
+    padding: 1px 3px;
+    margin: 0px 10px;
+}
+
+#bordinha {
+    background-color: #7ebeda;
+    border-radius: 7px;
+    padding: 3px;
+    margin: 20px 310px 20px 90px;
+}
+
+#content {
+    border: 3px black solid;
+    padding: 5px 10px;
+    background-color: rgb(250, 250, 250);
+    margin: 10px 200px;
+    text-align: justify;
+}
+
+#content p {
+    padding: 0px 10px;
+}
+
+#infoBox {
+    background-color: #b7e1f3;
+    border-radius: 7px;
+    padding: 10px 10px 1px 10px;
+}
+
+span.boldness {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+h1, h4, h5, h6 {
+    background-color: #bae8fc;
+    border: 2px #6dccf5 solid;
+    color: #246acc;
+    padding: 1px 3px;
+    margin: 10px 0px;
+}
+
+#qualquerCoisa {
+    background-color: rgb(255, 255, 255);
+    height: 1000px;
+    border-radius: 50px;
+}
+
+#bordinhaShou {
+    padding: 10px;
+    background-color: red;
+    border-radius: 50px;
+    margin: 200px;
+}
